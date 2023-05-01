@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Suscripciones</name>
+   <tag></tag>
+   <elementGuidId>dbf9b0b0-3200-4ea7-be84-51fdbd953974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.makeStyles-secondHeaderButton-158.MuiIconButton-colorInherit > span.MuiIconButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/header/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fffc3e12-fbcf-4da0-ac54-d87deb809e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiIconButton-label</value>
+      <webElementGuid>303937eb-650b-46e5-bd20-2308c941836b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suscripciones</value>
+      <webElementGuid>c3994a1b-a50f-4645-b4c8-4fa41ba04ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/header[@class=&quot;MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-mainHeader-151 mui-fixed MuiPaper-elevation4&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense makeStyles-secondHeaderToolbar-157 MuiToolbar-gutters&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root makeStyles-secondHeaderButton-158 MuiIconButton-colorInherit&quot;]/span[@class=&quot;MuiIconButton-label&quot;]</value>
+      <webElementGuid>de257a8a-a8d4-4f17-a06a-699098029743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/header/div[2]/button/span</value>
+      <webElementGuid>53317e37-7af5-434d-b8bf-49f79adf51ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UK'])[1]/following::span[6]</value>
+      <webElementGuid>bc66f77f-de68-4afc-a1e2-80b6c91e5a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BU Iké México #61 - BackOffice'])[1]/following::span[14]</value>
+      <webElementGuid>f9753525-10fd-4faf-aacc-fb8becaf6cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Servicios'])[1]/preceding::span[4]</value>
+      <webElementGuid>251ba088-bd4a-4b94-a041-5e58512ba9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Control'])[1]/preceding::span[6]</value>
+      <webElementGuid>6cf21ecb-6a42-441d-85e6-4588ff9ad9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suscripciones']/parent::*</value>
+      <webElementGuid>f1b187f2-4f16-4bcd-bb27-f3dd4b7eadd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>af3b6e27-412b-46cc-811a-3934e04ba66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Suscripciones' or . = 'Suscripciones')]</value>
+      <webElementGuid>935e3240-1ec7-4aa8-9d1d-93dfeef370fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Protocolos</name>
+   <tag></tag>
+   <elementGuidId>8dcbfa12-cf38-4bb9-b599-2398af56de8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemText-root.primary > span.MuiTypography-root.MuiListItemText-primary.MuiTypography-body1.MuiTypography-displayBlock</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/article/div/div/ul/div[2]/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>844a7864-6405-48d2-82f8-cf9d5297f127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock</value>
+      <webElementGuid>21cbdfb0-9ae9-4264-966c-3fb997c6f469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Protocolos</value>
+      <webElementGuid>b087f440-ea21-4ef5-8048-54a26b068d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/article[@class=&quot;makeStyles-root-219&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked makeStyles-drawer-221 makeStyles-drawerOpen-222&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper makeStyles-drawerOpen-222 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft MuiPaper-elevation0&quot;]/ul[@class=&quot;MuiList-root makeStyles-drawerListButton-228 MuiList-padding&quot;]/div[@class=&quot;MuiCollapse-root makeStyles-line-232 MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiList-root&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItem-root makeStyles-drawerListButtonNested-230 MuiListItem-gutters MuiListItem-button&quot;]/div[@class=&quot;MuiListItemText-root primary&quot;]/span[@class=&quot;MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock&quot;]</value>
+      <webElementGuid>392f1cd6-1d8b-4003-8454-ca7a7ac5b546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/article/div/div/ul/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>28595c7c-bc6b-405e-b6e4-cc72a7e01f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administración'])[1]/following::span[2]</value>
+      <webElementGuid>49b866c2-851b-4e9d-9330-c6ad5d40e918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Control'])[1]/following::span[7]</value>
+      <webElementGuid>119375dd-79fe-4919-bf7c-71441c8ec494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/preceding::span[4]</value>
+      <webElementGuid>e22ac2e4-93e6-48ec-a246-ff462be20f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Protocolos'])[2]/preceding::span[4]</value>
+      <webElementGuid>2362fb8e-012b-498a-983d-eecca9a22848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Protocolos']/parent::*</value>
+      <webElementGuid>e091abc8-9d66-4fde-8223-d6b29eee07ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>d26a85f3-a939-4216-b972-7d2fb3887020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Protocolos' or . = 'Protocolos')]</value>
+      <webElementGuid>60dbf51d-fb55-432a-bc15-152a073f5d20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
