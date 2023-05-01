@@ -21,6 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://uat.ccm.tutenlabs.dev/')
 
+WebUI.delay(10)
+
+WebUI.takeScreenshot()
+
 WebUI.setText(findTestObject('Object Repository/Page_Tutenlabs/input_Usuario o correo electrnico_email'), 'userkatalon@yopmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Tutenlabs/input_Contrasea_password'), 'vM3z4HUS+Q/F3V5GW3e8Tg==')
