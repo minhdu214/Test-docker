@@ -21,7 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://uat.ccm.tutenlabs.dev/')
 
-WebUI.delay(10)
+WebUI.delay(30)
+
+WebUI.setViewPortSize(1920, 1080)
 
 WebUI.takeScreenshot()
 
