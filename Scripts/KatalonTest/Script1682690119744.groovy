@@ -26,10 +26,6 @@ WebUI.delay(30)
 
 WebUI.setViewPortSize(1920, 1080)
 
-WebUI.refresh()
-
-WebUI.delay(10)
-
 WebUI.takeFullPageScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/Page_Tutenlabs/input_Usuario o correo electrnico_email'), 'userkatalon@yopmail.com')
